@@ -5,4 +5,4 @@ scanpy
 scipy
 anndata
 leidenalg
-igraph
+python-igraph>=0.7.0 
