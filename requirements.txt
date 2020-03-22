@@ -6,3 +6,4 @@ scipy
 anndata
 leidenalg
 python-igraph>=0.7.0 
+fa2
